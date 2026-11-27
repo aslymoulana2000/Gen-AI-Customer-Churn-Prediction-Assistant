@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+.venv311/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# PyCharm settings
+.idea/
+
+# Environment variables
+.env
+
+# Streamlit secrets
+.streamlit/secrets.toml
