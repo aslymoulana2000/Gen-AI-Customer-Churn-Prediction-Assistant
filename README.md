@@ -12,7 +12,7 @@ It uses a trained Random Forest classifier to predict customer churn risk, SHAP 
 
 The application is built with Streamlit and provides an interactive interface for exploring predictions and retention insights.
 
-## Machine Learning Model
+## Machine Learning Model Workflow
 
 ##  Features
 - Data preprocessing and cleaning
