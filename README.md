@@ -8,6 +8,24 @@ Try the deployed application:
 
 An AI-powered customer retention application that combines Machine Learning, SHAP explainability and Generative AI to predict customer churn, understand why customers may leave, and recommend actionable retention strategies.
 
+## Application Screenshots
+
+### Dashboard
+![Dashboard](screenshots/Main dashboard.png)
+
+### Customer Churn Prediction
+![Churn Prediction](screenshots/Customer churn prediction result.png)
+
+### SHAP Explainability
+![SHAP Explanation](screenshots/SHAP explainability.png)
+
+### AI-Powered Retention Strategy
+![AI Retention](screenshots/AI-generated retention strategy.png)
+
+### Conversational AI Assistant
+![AI Assistant](screenshots/Conversational AI assistant - 1.png)
+![AI Assistant](screenshots/Conversational AI assistant - 2.png)
+
 ## Project Overview
 
 Customer churn is a significant challenge for subscription-based and service-oriented businesses. Identifying customers who are likely to leave gives businesses an opportunity to take proactive action and improve customer retention.
