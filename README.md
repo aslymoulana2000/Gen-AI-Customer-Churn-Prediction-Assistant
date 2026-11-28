@@ -11,20 +11,21 @@ An AI-powered customer retention application that combines Machine Learning, SHA
 ## Application Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/Main dashboard.png)
+![Dashboard](screenshots/Main%20dashboard.png)
 
 ### Customer Churn Prediction
-![Churn Prediction](screenshots/Customer churn prediction result.png)
+![Churn Prediction](screenshots/Customer%20churn%20prediction%20result.png)
 
 ### SHAP Explainability
-![SHAP Explanation](screenshots/SHAP explainability.png)
+![SHAP Explanation](screenshots/SHAP%20explainability.png)
 
 ### AI-Powered Retention Strategy
-![AI Retention](screenshots/AI-generated retention strategy.png)
+![AI Retention](screenshots/AI-generated%20retention%20strategy.png)
 
 ### Conversational AI Assistant
-![AI Assistant](screenshots/Conversational AI assistant - 1.png)
-![AI Assistant](screenshots/Conversational AI assistant - 2.png)
+![AI Assistant](screenshots/Conversational%20AI%20assistant%20-%201.png)	
+
+![AI Assistant](screenshots/Conversational%20AI%20assistant%20-%202.png)
 
 ## Project Overview
 
