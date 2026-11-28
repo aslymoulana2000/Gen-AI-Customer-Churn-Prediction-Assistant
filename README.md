@@ -1,5 +1,11 @@
 # GenAI-Powered Customer Churn Prediction Assistant
 
+## 🚀 Live Demo
+
+Try the deployed application:
+
+[Launch GenAI Customer Churn Prediction Assistant](https://aslymoulana2000-gen-ai-customer-churn-prediction-ass-app-tcwlv5.streamlit.app/)
+
 An AI-powered customer retention application that combines Machine Learning, SHAP explainability and Generative AI to predict customer churn, understand why customers may leave, and recommend actionable retention strategies.
 
 ## Project Overview
